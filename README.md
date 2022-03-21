@@ -1,2 +1,2 @@
 # helloworld
-Hello
+printf("Hello world");
